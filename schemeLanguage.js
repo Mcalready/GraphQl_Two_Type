@@ -1,3 +1,8 @@
+/**
+ * Created by gui.zhang on 10/4/18.
+ * GraphQl两种写法
+ */
+
 const express = require('express');
 const graphqlHTTP = require('express-graphql');
 const { buildSchema } = require('graphql');
